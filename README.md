@@ -12,8 +12,8 @@ pip install pwinput
 
 pip install rich
 
-git clone https://github.com/jancok555/jancok69
+git clone https://github.com/jancok555/jancok555
 
-cd jancok69
+cd jancok555
 
-Python jancok69.py
+Python jancok555.py
